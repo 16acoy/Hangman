@@ -1,4 +1,3 @@
-#replay, improve colours, finish prog
 import tkinter as tk
 from PIL import Image, ImageTk
 window = tk.Tk()
